@@ -1,6 +1,6 @@
 # ProjectManager
 
-## A Project Management and Tracking Application made with ReactJS and Firebase.
+## A project management and tracking application with authentication, project creation, deadline tracking, and progress evaluation features.
 
 ### Live @ https://projectmanager.pages.dev/
 
