@@ -1,6 +1,6 @@
 # ProjectManager
 
-## A project management and tracking application with authentication, project creation, deadline tracking, and progress evaluation features.
+## A project management and tracking application with authentication, project creation, task addition, deadline and progress tracking features.
 
 ### Live @ https://projectmanager.pages.dev/
 
