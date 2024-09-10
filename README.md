@@ -2,7 +2,7 @@
 
 ## A Project Management and Tracking Application made with ReactJS and Firebase.
 
-### Live @ https://github.com/anujc21/ProjectManager.git
+### Live @ https://projectmanager.pages.dev/
 
 ### Run Locally
 
